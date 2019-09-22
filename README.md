@@ -13,7 +13,9 @@ To run this program you will need python 3.5 installed in you computer.
 - On your terminal cd to the file.
 - Run python entertainment_center.py
 - In the browser click on the movie to open youtube trailer.
+
 Or
+
 - Git clone http://github.com/aframelia/Movie-Trailer-Website.git to your computer.
 - Cd to Movie-Trailer-Website/
 - Run python entertainment_center.py
